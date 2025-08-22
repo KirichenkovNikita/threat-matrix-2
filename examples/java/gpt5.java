@@ -1,3 +1,22 @@
+/*
+*    ------ BEGIN LICENSE ATTRIBUTION ------
+*    
+*    Portions of this file have been appropriated or derived from the following project(s) and therefore require attribution to the original licenses and authors.
+*    
+*    Repositories:
+*     - https://github.com/apache/commons-codec/blob/commons-codec-1.16-rc1/src/main/java/org/apache/commons/codec/binary/Base64.java
+*    
+*    Copyrights:
+*    
+*    
+*    Licenses:
+*     - Apache License 2.0
+*       SPDXId: Apache-2.0
+*    
+*    Auto-attribution by Threatrix, Inc.
+*    
+*    ------ END LICENSE ATTRIBUTION ------
+*/
 @Override
     void decode(final byte[] in, int inPos, final int inAvail, final Context context) {
         if (context.eof) {
