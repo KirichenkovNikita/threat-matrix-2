@@ -1,3 +1,28 @@
+/*
+*    ------ BEGIN LICENSE ATTRIBUTION ------
+*    
+*    Portions of this file have been appropriated or derived from the following project(s) and therefore require attribution to the original licenses and authors.
+*    
+*    Repositories:
+*     - repo: https://github.com/eclipse/mosquitto release version: v2.0.4  asset relative path: src/control.c
+*     - repo: https://github.com/zephyrproject-rtos/zephyr release version: zephyr-v1.3.0  asset relative path: arch/arm/core/sys_fatal_error_handler.c
+*     - repo: https://github.com/eclipse/mosquitto release version: v1.5.3  asset relative path: src/mosquitto.c
+*    
+*    Copyrights:
+*    
+*    
+*    Licenses:
+*     - Eclipse Public License 2.0
+*       SPDXId: EPL-2.0
+*     - Eclipse Public License 1.0
+*       SPDXId: EPL-1.0
+*     - Apache License 2.0
+*       SPDXId: Apache-2.0
+*    
+*    Auto-attribution by Threatrix, Inc.
+*    
+*    ------ END LICENSE ATTRIBUTION ------
+*/
 // https://github.com/eclipse/mosquitto/blob/v2.0.1/src/control.c
 #ifdef WITH_CONTROL
 /* Process messages coming in on $CONTROL/<feature>. These messages aren't
