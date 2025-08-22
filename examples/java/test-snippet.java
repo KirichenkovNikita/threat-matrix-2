@@ -3,15 +3,18 @@
 *    
 *    Portions of this file have been appropriated or derived from the following project(s) and therefore require attribution to the original licenses and authors.
 *    
-*    Repository: http://spring.io/projects/spring-security
-*    Source File: RsaKeyConverters.java
+*    Repositories:
+*     - repo: http://spring.io/projects/spring-security release version: -  asset relative path: /RsaKeyConverters.java
+*     - repo: https://github.com/spring-projects/spring-security release version: 5.8.13  asset relative path: core/src/main/java/org/springframework/security/converter/RsaKeyConverters.java
 *    
 *    Copyrights:
-*      copyright 2002-2021 the original author or authors
+*     - copyright 2002-2021 the original author or authors
 *    
 *    Licenses:
-*      Eclipse Public License 2.0
-*      SPDXId: EPL-2.0
+*     - Eclipse Public License 2.0
+*       SPDXId: EPL-2.0
+*     - Apache License 2.0
+*       SPDXId: Apache-2.0
 *    
 *    Auto-attribution by Threatrix, Inc.
 *    
