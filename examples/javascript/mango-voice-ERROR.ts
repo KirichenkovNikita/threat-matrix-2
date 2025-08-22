@@ -1,3 +1,22 @@
+/*
+*    ------ BEGIN LICENSE ATTRIBUTION ------
+*    
+*    Portions of this file have been appropriated or derived from the following project(s) and therefore require attribution to the original licenses and authors.
+*    
+*    Repositories:
+*     - repo: https://github.com/sillsdev/web-xforge release version: SF-QAv394  asset relative path: src/SIL.XForge.Scripture/ClientApp/src/xforge-common/ui-common.module.ts
+*    
+*    Copyrights:
+*    
+*    
+*    Licenses:
+*     - MIT License
+*       SPDXId: MIT
+*    
+*    Auto-attribution by Threatrix, Inc.
+*    
+*    ------ END LICENSE ATTRIBUTION ------
+*/
 import { CommonModule } from '@angular/common';
 import { NgModule } from '@angular/core';
 import { DragDropModule } from '@angular/cdk/drag-drop';
