@@ -1,3 +1,22 @@
+/*
+*    ------ BEGIN LICENSE ATTRIBUTION ------
+*    
+*    Portions of this file have been appropriated or derived from the following project(s) and therefore require attribution to the original licenses and authors.
+*    
+*    Repository: http://spring.io/projects/spring-security
+*    Source File: RsaKeyConverters.java
+*    
+*    Copyrights:
+*      copyright 2002-2021 the original author or authors
+*    
+*    Licenses:
+*      Eclipse Public License 2.0
+*      SPDXId: EPL-2.0
+*    
+*    Auto-attribution by Threatrix, Inc.
+*    
+*    ------ END LICENSE ATTRIBUTION ------
+*/
 public static Converter<InputStream, RSAPrivateKey> pkcs8() {
     KeyFactory keyFactory = rsaFactory();
     return (source) -> {
