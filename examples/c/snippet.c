@@ -1,3 +1,22 @@
+/*
+*    ------ BEGIN LICENSE ATTRIBUTION ------
+*    
+*    Portions of this file have been appropriated or derived from the following project(s) and therefore require attribution to the original licenses and authors.
+*    
+*    Repositories:
+*     - repo: https://github.com/torvalds/linux release version: v5.2-rc2  asset relative path: tools/firewire/nosy-dump.c
+*    
+*    Copyrights:
+*    
+*    
+*    Licenses:
+*     - GNU General Public License v2.0 or later
+*       SPDXId: GPL-2.0-or-later
+*    
+*    Auto-attribution by Threatrix, Inc.
+*    
+*    ------ END LICENSE ATTRIBUTION ------
+*/
 #include <byteswap.h>
 #include <endian.h>
 #include <fcntl.h>
