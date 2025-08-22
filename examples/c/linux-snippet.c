@@ -1,3 +1,22 @@
+/*
+*    ------ BEGIN LICENSE ATTRIBUTION ------
+*    
+*    Portions of this file have been appropriated or derived from the following project(s) and therefore require attribution to the original licenses and authors.
+*    
+*    Repositories:
+*     - repo: https://github.com/torvalds/linux release version: v6.10-rc7  asset relative path: arch/x86/kernel/head64.c
+*    
+*    Copyrights:
+*    
+*    
+*    Licenses:
+*     - GNU General Public License v2.0 only
+*       SPDXId: GPL-2.0-only
+*    
+*    Auto-attribution by Threatrix, Inc.
+*    
+*    ------ END LICENSE ATTRIBUTION ------
+*/
 unsigned long __head __startup_64(unsigned long physaddr,
 				  struct boot_params *bp)
 {
