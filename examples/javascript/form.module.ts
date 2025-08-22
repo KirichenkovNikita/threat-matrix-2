@@ -1,3 +1,21 @@
+/*
+*    ------ BEGIN LICENSE ATTRIBUTION ------
+*    
+*    Portions of this file have been appropriated or derived from the following project(s) and therefore require attribution to the original licenses and authors.
+*    
+*    Repositories:
+*     - repo: https://github.com/Opetushallitus/varda release version: oph-public-branch-880bf67  asset relative path: client/projects/virkailija-app/src/app/shared/shared.module.ts
+*    
+*    Copyrights:
+*    
+*    
+*    Licenses:
+*    
+*    
+*    Auto-attribution by Threatrix, Inc.
+*    
+*    ------ END LICENSE ATTRIBUTION ------
+*/
 import { CommonModule } from '@angular/common';
 import { FormsModule } from '@angular/forms';
 import { ReactiveFormsModule } from '@angular/forms';
