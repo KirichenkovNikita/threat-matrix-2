@@ -1,3 +1,22 @@
+/*
+*    ------ BEGIN LICENSE ATTRIBUTION ------
+*    
+*    Portions of this file have been appropriated or derived from the following project(s) and therefore require attribution to the original licenses and authors.
+*    
+*    Repositories:
+*     - repo: https://github.com/torvalds/linux release version: v5.16  asset relative path: drivers/base/auxiliary.c
+*    
+*    Copyrights:
+*    
+*    
+*    Licenses:
+*     - GNU General Public License v2.0 only
+*       SPDXId: GPL-2.0-only
+*    
+*    Auto-attribution by Threatrix, Inc.
+*    
+*    ------ END LICENSE ATTRIBUTION ------
+*/
 // SPDX-License-Identifier: GPL-2.0-only
 /*
  * Copyright (c) 2019-2020 Intel Corporation
