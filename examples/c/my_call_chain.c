@@ -1,3 +1,22 @@
+/*
+*    ------ BEGIN LICENSE ATTRIBUTION ------
+*    
+*    Portions of this file have been appropriated or derived from the following project(s) and therefore require attribution to the original licenses and authors.
+*    
+*    Repositories:
+*     - repo: https://github.com/torvalds/linux release version: v5.8  asset relative path: kernel/events/callchain.c
+*    
+*    Copyrights:
+*    
+*    
+*    Licenses:
+*     - GNU General Public License v2.0 only
+*       SPDXId: GPL-2.0-only
+*    
+*    Auto-attribution by Threatrix, Inc.
+*    
+*    ------ END LICENSE ATTRIBUTION ------
+*/
 truct callchain_cpus_entries {
 	struct rcu_head			rcu_head;
 	struct perf_callchain_entry	*cpu_entries[];
