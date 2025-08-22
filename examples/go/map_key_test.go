@@ -1,3 +1,22 @@
+/*
+*    ------ BEGIN LICENSE ATTRIBUTION ------
+*    
+*    Portions of this file have been appropriated or derived from the following project(s) and therefore require attribution to the original licenses and authors.
+*    
+*    Repositories:
+*     - repo: https://github.com/json-iterator/go release version: v1.1.12  asset relative path: type_tests/map_key_test.go
+*    
+*    Copyrights:
+*    
+*    
+*    Licenses:
+*     - MIT License
+*       SPDXId: MIT
+*    
+*    Auto-attribution by Threatrix, Inc.
+*    
+*    ------ END LICENSE ATTRIBUTION ------
+*/
 // +build go1.15
 // remove these tests temporarily until https://github.com/golang/go/issues/38105 and
 // https://github.com/golang/go/issues/38940 is fixed
