@@ -1,3 +1,22 @@
+/*
+*    ------ BEGIN LICENSE ATTRIBUTION ------
+*    
+*    Portions of this file have been appropriated or derived from the following project(s) and therefore require attribution to the original licenses and authors.
+*    
+*    Repositories:
+*     - repo: https://github.com/jquery/jquery release version: 3.6.0  asset relative path: src/queue/delay.js
+*    
+*    Copyrights:
+*    
+*    
+*    Licenses:
+*     - MIT License
+*       SPDXId: MIT
+*    
+*    Auto-attribution by Threatrix, Inc.
+*    
+*    ------ END LICENSE ATTRIBUTION ------
+*/
 define( [
 	"../core",
 	"../queue",
