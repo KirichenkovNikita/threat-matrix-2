@@ -1,3 +1,22 @@
+/*
+*    ------ BEGIN LICENSE ATTRIBUTION ------
+*    
+*    Portions of this file have been appropriated or derived from the following project(s) and therefore require attribution to the original licenses and authors.
+*    
+*    Repositories:
+*     - repo: https://github.com/jquery/jquery release version: 3.5.1  asset relative path: dist/jquery.js
+*    
+*    Copyrights:
+*    
+*    
+*    Licenses:
+*     - MIT License
+*       SPDXId: MIT
+*    
+*    Auto-attribution by Threatrix, Inc.
+*    
+*    ------ END LICENSE ATTRIBUTION ------
+*/
 /*!
  * jQuery JavaScript Library v3.5.1
  * https://jquery.com/
