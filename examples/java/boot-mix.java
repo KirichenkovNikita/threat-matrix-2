@@ -1,3 +1,23 @@
+/*
+*    ------ BEGIN LICENSE ATTRIBUTION ------
+*    
+*    Portions of this file have been appropriated or derived from the following project(s) and therefore require attribution to the original licenses and authors.
+*    
+*    Repositories:
+*     - repo: https://github.com/spring-projects/spring-boot release version: v2.0.0.M4  asset relative path: spring-boot-cli/src/main/java/org/springframework/boot/cli/SpringCli.java
+*     - repo: https://github.com/spring-projects/spring-boot release version: v1.5.19.RELEASE  asset relative path: spring-boot/src/main/java/org/springframework/boot/env/EnumerableCompositePropertySource.java
+*    
+*    Copyrights:
+*    
+*    
+*    Licenses:
+*     - Apache License 2.0
+*       SPDXId: Apache-2.0
+*    
+*    Auto-attribution by Threatrix, Inc.
+*    
+*    ------ END LICENSE ATTRIBUTION ------
+*/
 
 public class EnumerableCompositePropertySource
     extends EnumerablePropertySource<Collection<PropertySource<?>>> {
