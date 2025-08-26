@@ -5,12 +5,15 @@
 *    
 *    Repositories:
 *     - repo: https://github.com/spring-projects/spring-boot-data-geode release version: 2.0.0-M5  asset relative path: null/mixed1.java
+*     - repo: https://github.com/json-iterator/go release version: v1.1.12  asset relative path: type_tests/map_key_test.go
 *    
 *    Copyrights:
 *     - copyright 2017-present the original author or authors
 *     - copyright 2002-2016 the original author or authors
 *    
 *    Licenses:
+*     - MIT License
+*       SPDXId: MIT
 *     - Apache License 2.0
 *       SPDXId: Apache-2.0
 *    
