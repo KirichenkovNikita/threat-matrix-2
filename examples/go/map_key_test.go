@@ -3,16 +3,15 @@
 *    
 *    Portions of this file have been appropriated or derived from the following project(s) and therefore require attribution to the original licenses and authors.
 *    
-*    Repositories:
-*     - repo: https://github.com/spring-projects/spring-boot-data-geode release version: 2.0.0-M5  asset relative path: null/mixed1.java
+*    Repository: https://github.com/json-iterator/go
+*    Source File: type_tests/map_key_test.go
 *    
 *    Copyrights:
-*     - copyright 2017-present the original author or authors
-*     - copyright 2002-2016 the original author or authors
+*      copyright (c) 2016 json-iterator
 *    
 *    Licenses:
-*     - Apache License 2.0
-*       SPDXId: Apache-2.0
+*      MIT License
+*      SPDXId: MIT
 *    
 *    Auto-attribution by Threatrix, Inc.
 *    
