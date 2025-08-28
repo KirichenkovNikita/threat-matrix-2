@@ -1,3 +1,21 @@
+/*
+*    ------ BEGIN LICENSE ATTRIBUTION ------
+*    
+*    Portions of this file have been appropriated or derived from the following project(s) and therefore require attribution to the original licenses and authors.
+*    
+*    Repositories:
+*     - repo: https://github.com/eclipse/mosquitto/blob/v2.0.0/src/control.c release version: v2.0.0  asset relative path: src/control.c
+*    
+*    Copyrights:
+*    
+*    Licenses:
+*     - Eclipse Public License 2.0
+*       SPDXId: EPL-2.0
+*    
+*    Auto-attribution by Threatrix, Inc.
+*    
+*    ------ END LICENSE ATTRIBUTION ------
+*/
 
 // https://github.com/eclipse/mosquitto/blob/v2.0.1/src/control.c
 #ifdef WITH_CONTROL
