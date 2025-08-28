@@ -8,7 +8,6 @@
 *    
 *    Copyrights:
 *    
-*    
 *    Licenses:
 *     - Apache License 2.0
 *       SPDXId: Apache-2.0
