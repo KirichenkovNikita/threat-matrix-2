@@ -4,13 +4,19 @@
 *    Portions of this file have been appropriated or derived from the following project(s) and therefore require attribution to the original licenses and authors.
 *    
 *    Repositories:
+*     - repo: https://github.com/eclipse/mosquitto/blob/v1.5.3/src/mosquitto.c release version: v1.5.3  asset relative path: src/mosquitto.c
 *     - repo: https://github.com/eclipse/mosquitto/blob/v2.0.0/src/control.c release version: v2.0.0  asset relative path: src/control.c
+*     - repo: https://github.com/zephyrproject-rtos/zephyr/blob/v1.0.0/arch/arm/core/sys_fatal_error_handler.c release version: v1.0.0  asset relative path: arch/arm/core/sys_fatal_error_handler.c
 *    
 *    Copyrights:
 *    
 *    Licenses:
 *     - Eclipse Public License 2.0
 *       SPDXId: EPL-2.0
+*     - Eclipse Public License 1.0
+*       SPDXId: EPL-1.0
+*     - Apache License 2.0
+*       SPDXId: Apache-2.0
 *    
 *    Auto-attribution by Threatrix, Inc.
 *    
