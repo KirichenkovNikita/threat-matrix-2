@@ -5,9 +5,6 @@
 *    
 *    Repositories:
 *     - repo: https://github.com/eclipse/mosquitto/blob/v1.5.3/src/mosquitto.c release version: v1.5.3  asset relative path: src/mosquitto.c
-*     - repo: https://github.com/eclipse/mosquitto release version:   asset relative path: src/mosquitto.c
-*     - repo: https://github.com/eclipse/mosquitto/blob/v2.0.0/src/control.c release version: v2.0.0  asset relative path: src/control.c
-*     - repo: https://github.com/zephyrproject-rtos/zephyr/blob/v1.0.0/arch/arm/core/sys_fatal_error_handler.c release version: v1.0.0  asset relative path: arch/arm/core/sys_fatal_error_handler.c
 *    
 *    Copyrights:
 *     - copyright (c) 2009-2018 roger light <roger@atchoo.org>
@@ -15,8 +12,6 @@
 *    Licenses:
 *     - Eclipse Public License 2.0
 *       SPDXId: EPL-2.0
-*     - Eclipse Public License 1.0
-*       SPDXId: EPL-1.0
 *    
 *    Auto-attribution by Threatrix, Inc.
 *    
