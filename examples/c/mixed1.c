@@ -10,8 +10,8 @@
 *     - copyright (c) 2009-2018 roger light <roger@atchoo.org>
 *    
 *    Licenses:
-*     - Eclipse Public License 2.0
-*       SPDXId: EPL-2.0
+*     - Eclipse Public License 1.0
+*       SPDXId: EPL-1.0
 *    
 *    Auto-attribution by Threatrix, Inc.
 *    
