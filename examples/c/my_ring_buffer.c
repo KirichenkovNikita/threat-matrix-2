@@ -1,23 +1,25 @@
 /*
 *    ------ BEGIN LICENSE ATTRIBUTION ------
-*
+*    
 *    Portions of this file have been appropriated or derived from the following project(s) and therefore require attribution to the original licenses and authors.
-*
-*    Release: https://github.com/torvalds/linux/releases/tag/v6.8
-*    Source File: ring_buffer.c
-*
+*    
+*    Repositories:
+*     - repo: https://github.com/torvalds/linux/blob/v6.0-rc1/kernel/events/ring_buffer.c release version: v6.0-rc1  asset relative path: kernel/events/ring_buffer.c
+*    
 *    Copyrights:
-*      copyright  ��  2009 paul mackerras, ibm corp. <paulus@au1.ibm.com>
-*      copyright (c) 2008 thomas gleixner <tglx@linutronix.de>
-*      copyright (c) 2008-2011 red hat, inc., ingo molnar
-*      copyright (c) 2008-2011 red hat, inc., peter zijlstra
-*
+*     - copyright (c) 2008 thomas gleixner <tglx@linutronix.de>
+*     - copyright (c) 2008-2011 red hat, inc., ingo molnar
+*     - copyright (c) 2008-2011 red hat, inc., peter zijlstra
+*     - copyright  ��  2009 paul mackerras, ibm corp. <paulus@au1.ibm.com>
+*    
 *    Licenses:
-*      GNU General Public License v2.0 only
-*      SPDXId: GPL-2.0-only
-*
+*     - 
+*       SPDXId: GPL-2.0-only
+*     - GNU General Public License v2.0 only
+*       SPDXId: GPL-2.0-only
+*    
 *    Auto-attribution by Threatrix, Inc.
-*
+*    
 *    ------ END LICENSE ATTRIBUTION ------
 */
 static __always_inline bool
