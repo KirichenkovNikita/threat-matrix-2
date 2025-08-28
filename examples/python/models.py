@@ -1,3 +1,19 @@
+#    ------ BEGIN LICENSE ATTRIBUTION ------
+#    
+#    Portions of this file have been appropriated or derived from the following project(s) and therefore require attribution to the original licenses and authors.
+#    
+#    Repositories:
+#     - repo: https://github.com/psf/requests/blob/v2.28.2/requests/models.py release version: v2.28.2  asset relative path: requests/models.py
+#    
+#    Copyrights:
+#    
+#    Licenses:
+#     - Apache License 2.0
+#       SPDXId: Apache-2.0
+#    
+#    Auto-attribution by Threatrix, Inc.
+#    
+#    ------ END LICENSE ATTRIBUTION ------
 """
 requests.models
 ~~~~~~~~~~~~~~~
