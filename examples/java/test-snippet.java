@@ -4,10 +4,10 @@
 *    Portions of this file have been appropriated or derived from the following project(s) and therefore require attribution to the original licenses and authors.
 *    
 *    Repositories:
+*     - repo: https://github.com/spring-projects/spring-security/blob/6.2.0-RC1/core/src/main/java/org/springframework/security/converter/RsaKeyConverters.java release version: 6.2.0-RC1  asset relative path: core/src/main/java/org/springframework/security/converter/RsaKeyConverters.java
 *     - repo: https://github.com/spring-projects/spring-security release version: 5.8.13  asset relative path: core/src/main/java/org/springframework/security/converter/RsaKeyConverters.java
 *    
 *    Copyrights:
-*    
 *    
 *    Licenses:
 *     - Apache License 2.0
