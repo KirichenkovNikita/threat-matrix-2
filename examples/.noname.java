@@ -1,20 +1,24 @@
 /*
 *    ------ BEGIN LICENSE ATTRIBUTION ------
-*
+*    
 *    Portions of this file have been appropriated or derived from the following project(s) and therefore require attribution to the original licenses and authors.
-*
-*    Repository: https://spring.io/projects/spring-boot
-*    Source File: Connection.java
-*
+*    
+*    Repositories:
+*     - repo: https://github.com/KirichenkovNikita/kirichenkov-threatrix release version: 02-04-2025  asset relative path: /.gitattributes
+*     - repo: https://spring.io/projects/spring-boot release version:   asset relative path: Connection.java
+*     - repo: Owner/Name release version: 1  asset relative path: /AssetName.java
+*     - repo: https://github.com/spring-projects/spring-security release version: 02-04-2025  asset relative path: crypto/src/main/java/org/springframework/security/crypto/codec/Base64.java
+*     - repo: https://github.com/json-iterator/go release version: 02-04-2025  asset relative path: type_tests/map_key_test.go
+*    
 *    Copyrights:
-*      copyright 2012-2021 the original author or authors
-*
+*     - copyright 2012-2021 the original author or authors
+*    
 *    Licenses:
-*      Apache License 2.0
-*      SPDXId: Apache-2.0
-*
+*     - Apache License 2.0
+*       SPDXId: Apache-2.0
+*    
 *    Auto-attribution by Threatrix, Inc.
-*
+*    
 *    ------ END LICENSE ATTRIBUTION ------
 */
 package io.threatrix.threatmatrix.slice;
