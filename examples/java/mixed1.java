@@ -4,9 +4,10 @@
 *    Portions of this file have been appropriated or derived from the following project(s) and therefore require attribution to the original licenses and authors.
 *    
 *    Repositories:
-*     - repo: https://github.com/spring-projects/spring-boot-data-geode/blob/1.3.0.RC1/spring-geode/src/main/java/org/springframework/geode/core/util/ObjectUtils.java release version: 1.3.0.RELEASE  asset relative path: spring-geode/src/main/java/org/springframework/geode/core/util/ObjectUtils.java
 *     - repo: https://github.com/spring-projects/spring-security release version:   asset relative path: crypto/src/main/java/org/springframework/security/crypto/codec/Base64.java
+*     - repo: https://github.com/spring-projects/spring-boot-data-geode/blob/1.3.0.RC1/spring-geode/src/main/java/org/springframework/geode/core/util/ObjectUtils.java release version: 1.3.0.RELEASE  asset relative path: spring-geode/src/main/java/org/springframework/geode/core/util/ObjectUtils.java
 *     - repo: https://github.com/spring-projects/spring-boot/blob/v2.4.10/spring-boot-project/spring-boot-devtools/src/main/java/org/springframework/boot/devtools/livereload/Connection.java release version: v2.6.15  asset relative path: spring-boot-project/spring-boot-devtools/src/main/java/org/springframework/boot/devtools/livereload/Connection.java
+*     - repo: https://github.com/spring-projects/spring-security/blob/5.4.0/crypto/src/main/java/org/springframework/security/crypto/codec/Base64.java release version: 5.4.0  asset relative path: crypto/src/main/java/org/springframework/security/crypto/codec/Base64.java
 *     - repo: https://github.com/spring-projects/spring-authorization-server/blob/0.1.1/oauth2-authorization-server/src/main/java/org/springframework/security/oauth2/core/OAuth2TokenIntrospection.java release version: 0.3.1  asset relative path: oauth2-authorization-server/src/main/java/org/springframework/security/oauth2/core/OAuth2TokenIntrospection.java
 *    
 *    Copyrights:
