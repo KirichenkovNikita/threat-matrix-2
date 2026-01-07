@@ -5,10 +5,6 @@
 *    
 *    Repository: https://github.com/json-iterator/go
 *    Source File: type_tests/map_key_test.go
-*    
-*    Copyrights:
-*      copyright (c) 2016 json-iterator
-*    
 *    Licenses:
 *      MIT License
 *      SPDXId: MIT
